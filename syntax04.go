@@ -1,10 +1,10 @@
-package main
+// package main
 
-import (
-	"fmt"
-	"math/rand"
-	"time" // seed 생성용 패키지
-)
+// import (
+// 	"fmt"
+// 	"math/rand"
+// 	"time" // seed 생성용 패키지
+// )
 
 // 난수 추출된 수의 소수 판정 프로그램 v0.6
 // func main() {
@@ -124,13 +124,13 @@ import (
 // 	}
 // }
 
-// package main
+package main
 
-// import (
-// 	"fmt"
-// 	"math/rand"
-// 	"time" // seed 생성용 패키지
-// )
+import (
+	"fmt"
+	"math/rand"
+	"time" // seed 생성용 패키지
+)
 
 // 난수 추출된 수의 소수 판정 프로그램 v0.1
 // 소수 : 1과 자기자신외에는 나누어 떨어지지 않는 수 (0과 1은 제외)
